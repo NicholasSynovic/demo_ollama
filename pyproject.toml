@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.10"
 langchain = "^0.1.16"
 ipykernel = "^6.29.4"
+click = "^8.1.7"
 
 
 [build-system]
